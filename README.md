@@ -96,18 +96,25 @@ print(y_prednew)
 
 ## Output:
 Read the file and display
+
 ![image](https://github.com/Sanafathima95773/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147084627/a04a4f45-68b4-49f4-acdf-2ffe23e022bc)
 Categorizing columns
+
 ![image](https://github.com/Sanafathima95773/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147084627/64048db8-2b2f-4eb8-bbc0-433507e9f0d1)
 Labelling columns and displaying dataset
+
 ![image](https://github.com/Sanafathima95773/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147084627/29c4b5a6-cd69-45d4-a6fa-b8d132104abe)
 Display dependent variable
+
 ![image](https://github.com/Sanafathima95773/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147084627/6451d621-dffc-4617-9a33-78452448675c)
 Printing accuracy
+
 ![image](https://github.com/Sanafathima95773/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147084627/55947565-ccf6-4b55-bf89-8ddf70d90289)
 Printing Y
+
 ![image](https://github.com/Sanafathima95773/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147084627/dd3bf72a-a682-4ea1-9a6f-a63341535909)
 Printing y_prednew
+
 ![image](https://github.com/Sanafathima95773/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147084627/9b9335d4-f0f4-4434-bd0d-5f16c897ba2d)
 
 
